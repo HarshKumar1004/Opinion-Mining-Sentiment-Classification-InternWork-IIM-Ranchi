@@ -1,4 +1,4 @@
-# An Exploratory Study to Determine the Sentiment of the Indian OTT Web Series Audience by Applying Opinion Mining using Python as my Intern Work @ IIM Ranchi
+## An Exploratory Study to Determine the Sentiment of the Indian OTT Web Series Audience by Applying Opinion Mining using Python as my Intern Work @ IIM Ranchi
 Opinion Mining + Sentiment Classification for the Top 10 Indian Web Series (namely in 6 Genres - Action, Thriller, Drama, Comedy, Romance, Horror) using Python as my Intern Work @ IIM Ranchi.
 
 In this project, we aim to perform Sentiment Analysis of user reviews of Top 10 Indian Web Series in different Genres (namely in 6 Genres - Action, Thriller, Drama, Comedy, Romance, Horror) shown on various OTT (over-the-top) platforms or media services (Amazon Prime Video,  Netflix,  ZEE5, Disney + Hotstar,  Voot,  ALTBalaji,  SonyLiv etc). 
